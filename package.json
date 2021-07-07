@@ -1,0 +1,19 @@
+{
+  "name": "skill_test2",
+  "version": "1.0.0",
+  "description": "skill test",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "tes"
+  ],
+  "author": "farhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  }
+}
